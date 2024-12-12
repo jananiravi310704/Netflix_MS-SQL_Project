@@ -1,2 +1,2 @@
 # Netflix Movies and TV Shows Data Analysis using MS SQL Server
-![Netflix Logo]{}
+![Netflix Logo]{netflix.logo.png}
