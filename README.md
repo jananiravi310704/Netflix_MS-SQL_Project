@@ -4,6 +4,7 @@ DESCRIPTION:
      The Netflix SQL Server Project is a comprehensive database system designed to simulate the backend operations of a streaming platform like Netflix. This project demonstrates the use of SQL Server to model, store, and manage data related to users, content, subscriptions, and analytics. It provides a foundation for building data-driven applications, performing advanced analytics, and supporting scalable user services.
 
 The QUERY and SOLUTION, Where shown below,
+
 --1.COUNT THE MOVIES AND TV SHOW 
 SELECT 
    type,
